@@ -11,10 +11,6 @@ function Length()
     
       html.push('<ul>')
       html.push('<li>'+ contenido.Nombre +'</li>')
-         html.push('<ul>')
-         html.push('<li>'+ contenido.Nombre +'</li>')
-         html.push('</ul>')
-          
       html.push('</ul>')
     
   })
